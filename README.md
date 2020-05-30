@@ -1,0 +1,1 @@
+# maven_release_plugin_module
